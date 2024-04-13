@@ -8,7 +8,7 @@ It doesn't get you all the way there but should help get you close, which is goo
 Notching on OEM is much harder this file is really intended to get you started notching for phob, notching for OEM GCC
 is significantly harder.
 
-I'll link my diamond files I use from AliExpress
+I'll link my diamond files I use from AliExpress (https://www.aliexpress.com/item/1005004546655516.html?)
 the obtuse angle file for getting the basic shapes
 the round file for rounding out the gates
 the acute triangle file for getting into corners and fixing any mistakes
