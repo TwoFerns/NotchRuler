@@ -18,3 +18,8 @@ this is just a method that has worked well for me. If you are able to improve on
 
 Cheers
 TwoFerns
+![PXL_20240317_015017030 MP](https://github.com/TwoFerns/NotchRuler/assets/62078998/afc0a92d-9fdc-4312-a1a5-69df4d626ca1)
+![PXL_20240413_204227554_exported_0](https://github.com/TwoFerns/NotchRuler/assets/62078998/8fd26ab1-a9d6-4346-8d1c-a018d5a77a1f)
+![PXL_20240325_051437988 MP](https://github.com/TwoFerns/NotchRuler/assets/62078998/bb8daeed-a100-492a-9778-b552828d29ac)
+![PXL_20240326_051915560 MP](https://github.com/TwoFerns/NotchRuler/assets/62078998/b08f8cb0-befb-4835-9ca4-98e4a070e1a8)
+![files](https://github.com/TwoFerns/NotchRuler/assets/62078998/4ebfcfd9-c445-489c-bce6-d40681a8f89d)
